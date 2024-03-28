@@ -1,0 +1,12 @@
+.vs
+*.sln
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+Documentation/
+/.vsconfig
+/UpgradeLog.htm
+*.htm
+/OpenAIAuth.ini
